@@ -8,7 +8,7 @@ namespace Snake_And_Ladder
 {
     class Board
     {
-        public static int rules(Players players, int diceNumber)
+        public static int Rules(Players players, int diceNumber)
         { 
             if ((players.getCurrentPlace()+diceNumber)<100)
                 return 200;

@@ -18,6 +18,11 @@ namespace Snake_And_Ladder
             currentPlace = 0;
         }
 
+        ~Players()
+        {
+            Console.WriteLine($"Player {name} is signing off !");
+        }
+
         public int getId() { return id; }
         public int getCurrentPlace() { return currentPlace;}
         public string getName() { return name; }
