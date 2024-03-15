@@ -1,0 +1,7 @@
+C:\Users\Thanay\source\repos\Snake_And_Ladder\bin\Debug\Snake_And_Ladder.exe.config
+C:\Users\Thanay\source\repos\Snake_And_Ladder\bin\Debug\Snake_And_Ladder.exe
+C:\Users\Thanay\source\repos\Snake_And_Ladder\bin\Debug\Snake_And_Ladder.pdb
+C:\Users\Thanay\source\repos\Snake_And_Ladder\obj\Debug\Snake_And_Ladder.csproj.AssemblyReference.cache
+C:\Users\Thanay\source\repos\Snake_And_Ladder\obj\Debug\Snake_And_Ladder.csproj.CoreCompileInputs.cache
+C:\Users\Thanay\source\repos\Snake_And_Ladder\obj\Debug\Snake_And_Ladder.exe
+C:\Users\Thanay\source\repos\Snake_And_Ladder\obj\Debug\Snake_And_Ladder.pdb
